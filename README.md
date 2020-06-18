@@ -1,6 +1,6 @@
 https://dev.azure.com/MyMSLearn/Space%20Game%20-%20web/_apis/build/status/Alexcd83.mslearn-tailspin-spacegame-web?branchName=master
 # Contributing
-
+[![Build Status](https://dev.azure.com/MyMSLearn/Space%20Game%20-%20web/_apis/build/status/Alexcd83.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/MyMSLearn/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master)
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
